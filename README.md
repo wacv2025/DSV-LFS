@@ -46,7 +46,7 @@ Check requirements.txt file for packages
 Download SAM ViT-H pre-trained weights from the [link](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth).
 
 #### llava-v1.5-7b
-Download llava-v1.5-7b modek from the [link](https://huggingface.co/liuhaotian/llava-v1.5-7b).
+Download llava-v1.5-7b model from the [link](https://huggingface.co/liuhaotian/llava-v1.5-7b).
 
 ### Training
 ```
